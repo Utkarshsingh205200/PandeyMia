@@ -1,0 +1,55 @@
+.Headss {
+	/* background: url('http://www.autodatz.com/wp-content/uploads/2017/05/Old-Car-Wallpapers-Hd-36-with-Old-Car-Wallpapers-Hd.jpg'); */
+    background-image: url(../Images/pundey.jpg);
+	text-align: center;
+	width: 100%;
+	height: auto;
+	background-size: cover;
+	background-attachment: fixed;
+	position: relative;
+	overflow: hidden;
+	border-radius: 0 0 85% 85% / 30%;
+    padding: 30px 10px;
+    margin: 30px;
+}
+.Headss .overlay{
+	width: 100%;
+	height: 100%;
+	padding: 50px;
+	color: #FFF;
+	text-shadow: 1px 1px 1px #333;
+	
+}
+
+h1 {
+	
+    font-family: 'Bagel Fat One', cursive;
+	font-size: 80px;
+	margin-bottom: 30px;
+}
+
+.headc {
+	font-family: 'Bitter', serif;
+	margin-bottom: 30px;
+}
+
+button {
+	border: none;
+	outline: none;
+	padding: 10px 20px;
+	border-radius: 50px;
+	color: #333;
+	background: #fff;
+	margin-bottom: 50px;
+	box-shadow: 0 3px 20px 0 #0000003b;
+}
+button:hover{
+	cursor: pointer;
+}
+
+.contactcont{
+	width: 100%;
+	display: grid;
+	place-items: center;
+	height: 200px;
+}

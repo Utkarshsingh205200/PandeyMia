@@ -1,0 +1,23 @@
+.Wrap{
+    width: 100%;
+    position: relative;
+    min-height: 100vh;
+}
+
+.Content{
+    padding-bottom: 300px;
+    width: 100%;
+    height:auto;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    
+}
+.Links{
+    width: 30%;
+    height: auto;
+}
+
+.Contentss{
+    width: 70%;
+}

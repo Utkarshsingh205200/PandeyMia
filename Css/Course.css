@@ -1,0 +1,29 @@
+.coursecont{
+    margin-top: 30px;
+}
+
+.courseheading{
+    font-size: 3rem;
+    font-family: 'Bagel Fat One', cursive;
+    text-align: center;
+
+}
+.Coursedisp{
+    font-family: 'Bitter', serif;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 15px;
+}
+
+.textcourse{
+    padding: 0 20px;
+    width: 30%;
+}
+
+.coursebut{
+    width: 40%;
+}
+.coursebut button{
+    margin-left: 20px;
+}
